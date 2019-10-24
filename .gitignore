@@ -3,6 +3,6 @@
 	__pycache__
     .DS_Store
     /node_modules
-    .psd
-    .glb
-    .zip
+    *.psd
+    *.glb
+    *.zip
