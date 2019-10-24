@@ -1,8 +1,8 @@
-	*.pyc
-	*.blend[1-9]
-	__pycache__
-    .DS_Store
-    /node_modules
-    *.psd
-    *.glb
-    *.zip
+*.pyc
+*.blend[1-9]
+__pycache__
+.DS_Store
+/node_modules
+*.psd
+*.glb
+*.zip
