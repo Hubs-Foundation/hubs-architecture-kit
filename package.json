@@ -1,0 +1,21 @@
+{
+  "name": "hubs-architecture-kit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MozillaReality/hubs-architecture-kit.git",
+  "author": "Robert Long <robert@robertlong.me>",
+  "license": "MIT",
+  "scripts": {
+    "deploy-prod": "node ./scripts/deploy.js ./glTF/ArchKit assets.reticulum-prod-b99b35f30242f894 kits/architecture/",
+    "deploy-dev": "node ./scripts/deploy.js ./glTF/ArchKit assets.reticulum-dev-7f8d39c45878ee2e kits/architecture/"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.556.0",
+    "commander": "^3.0.2",
+    "glob-promise": "^3.4.0",
+    "promptly": "^3.0.3"
+  },
+  "dependencies": {
+    "glob": "^7.1.5"
+  }
+}
