@@ -10,5 +10,5 @@ The Hubs Architecture Kit is one example of configurable pieces that can be used
 
 In order to download the source files for the kit you will need the [Github Desktop client](https://desktop.github.com/), or [Git-LFS](https://git-lfs.github.com/) if you are using the command line. Then clone the repository.
 
-License
+# License
 All assets in this repository are licensed with CC-BY 2.0.
