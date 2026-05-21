@@ -10,7 +10,7 @@
     "deploy-dev": "node ./scripts/deploy.js ./glTF/ArchKit assets.reticulum-dev-7f8d39c45878ee2e kits/architecture/"
   },
   "devDependencies": {
-    "aws-sdk": "^2.556.0",
+    "aws-sdk": "^2.814.0",
     "commander": "^3.0.2",
     "glob-promise": "^3.4.0",
     "promptly": "^3.0.3"
